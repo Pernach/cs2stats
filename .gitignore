@@ -1,0 +1,7 @@
+*.log
+*.db
+*.csv
+*.parquet
+__pycache__/
+mlruns/
+.venv/
